@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="test_1.CalcTest-20201117145046" tests="4" file="test_1.py" time="0.017" timestamp="2020-11-17T14:50:46" failures="0" errors="0" skipped="0">
-	<testcase classname="test_1.CalcTest" name="test_add" time="0.008" timestamp="2020-11-17T14:50:46" file="test_1.py" line="6"/>
-	<testcase classname="test_1.CalcTest" name="test_div" time="0.005" timestamp="2020-11-17T14:50:46" file="test_1.py" line="15"/>
-	<testcase classname="test_1.CalcTest" name="test_mul" time="0.003" timestamp="2020-11-17T14:50:46" file="test_1.py" line="12"/>
-	<testcase classname="test_1.CalcTest" name="test_sub" time="0.001" timestamp="2020-11-17T14:50:46" file="test_1.py" line="9"/>
-</testsuite>
